@@ -1,0 +1,8 @@
+# Readme
+
+This repository is directly based on https://github.com/byronknoll/visibility-polygon-js v1.9
+
+See the Byronknoll repository for further explanations and a html + javascript demo.
+
+The Reference package contains a direct translation of the javascript files, without any optimalizations or golang
+functionality. This has been used as a reference to cross-check the functionality.
